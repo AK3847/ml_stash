@@ -2,6 +2,8 @@
 
 Resources that I am using right now as a part of my ml journey, putting it here to help others (⌐■_■)
 
+_still in progress...._
+
 - [Blogs](blogs) contains blogs and websites which cover ML or LLM topics
 
 - [books](books) standard books for ML & LLM
