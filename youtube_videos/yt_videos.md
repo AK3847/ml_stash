@@ -10,3 +10,5 @@
 - [The most Important Algorithm in Machine Learning - BackPropagation](https://www.youtube.com/watch?v=SmZmBKc7Lrs)
 
 - [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
+
+- [LLMs : Evals,RAG,Fine-tuning,Prompt,Applications](https://parlance-labs.com/education/)
