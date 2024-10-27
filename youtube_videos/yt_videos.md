@@ -12,3 +12,11 @@
 - [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 
 - [LLMs : Evals,RAG,Fine-tuning,Prompt,Applications](https://parlance-labs.com/education/)
+
+- [Attenion is all you NEED! by umar jamil](https://www.youtube.com/watch?v=bCz4OMemCcA&t=2879s)
+
+- [Transformer Neural Networks Derived from Scratch](https://youtu.be/kWLed8o5M2Y?si=hAxEoaeuZ5fRcQ8F)
+
+- [Why Does Diffusion Work Better than Auto-Regression?](https://youtu.be/zc5NTeJbk-k?si=s-AurjaSVe5_A2OS)
+
+- [The moment we stopped understanding AI](https://www.youtube.com/watch?v=UZDiGooFs54&t=2s)
